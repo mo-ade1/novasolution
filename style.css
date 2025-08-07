@@ -240,6 +240,7 @@ header {
 
 #about .content-2 {
     grid-area: content-2;
+    padding: 40px 0;
 }
 
 #about .content-3 {
@@ -249,7 +250,7 @@ header {
     justify-content: center;
     text-align: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 80px;
 }
 
 #about .content-3 h3 {
